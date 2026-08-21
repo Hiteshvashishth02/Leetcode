@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Math
+|  |
+| ------- |
+| [2806-account-balance-after-rounded-purchase](https://github.com/Hiteshvashishth02/Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 <!---LeetCode Topics End-->
