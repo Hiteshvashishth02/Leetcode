@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Hiteshvashishth02/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Hiteshvashishth02/Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Hiteshvashishth02/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Number Theory
 |  |
 | ------- |
