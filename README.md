@@ -28,5 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Hiteshvashishth02/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Hiteshvashishth02/Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Hiteshvashishth02/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Hiteshvashishth02/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
