@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0016-3sum-closest) |
 | [0239-sliding-window-maximum](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Hiteshvashishth02/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Queue
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0371-sum-of-two-integers) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
