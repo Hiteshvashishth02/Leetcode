@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0016-3sum-closest) |
 | [0239-sliding-window-maximum](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Hiteshvashishth02/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3663-find-the-least-frequent-digit](https://github.com/Hiteshvashishth02/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 ## Queue
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/Hiteshvashishth02/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Hiteshvashishth02/Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Hiteshvashishth02/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3663-find-the-least-frequent-digit](https://github.com/Hiteshvashishth02/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 ## Number Theory
 |  |
 | ------- |
@@ -59,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+## Hash Table
+|  |
+| ------- |
+| [3663-find-the-least-frequent-digit](https://github.com/Hiteshvashishth02/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
+## Counting
+|  |
+| ------- |
+| [3663-find-the-least-frequent-digit](https://github.com/Hiteshvashishth02/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 <!---LeetCode Topics End-->
