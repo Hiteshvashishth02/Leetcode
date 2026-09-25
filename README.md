@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0016-3sum-closest) |
+| [0217-contains-duplicate](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Hiteshvashishth02/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3663-find-the-least-frequent-digit](https://github.com/Hiteshvashishth02/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0016-3sum-closest) |
+| [0217-contains-duplicate](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0217-contains-duplicate) |
 | [3663-find-the-least-frequent-digit](https://github.com/Hiteshvashishth02/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 ## Counting
 |  |
