@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0877-stone-game](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Hiteshvashishth02/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3663-find-the-least-frequent-digit](https://github.com/Hiteshvashishth02/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 ## Queue
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0877-stone-game](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0877-stone-game) |
 | [1492-the-kth-factor-of-n](https://github.com/Hiteshvashishth02/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Hiteshvashishth02/Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Hiteshvashishth02/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -80,4 +82,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0206-reverse-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
