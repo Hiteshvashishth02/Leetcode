@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0877-stone-game) |
 | [1492-the-kth-factor-of-n](https://github.com/Hiteshvashishth02/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [2396-strictly-palindromic-number](https://github.com/Hiteshvashishth02/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Hiteshvashishth02/Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Hiteshvashishth02/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3663-find-the-least-frequent-digit](https://github.com/Hiteshvashishth02/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0016-3sum-closest) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2396-strictly-palindromic-number](https://github.com/Hiteshvashishth02/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0877-stone-game) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Hiteshvashishth02/Leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
