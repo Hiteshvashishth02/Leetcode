@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0031-next-permutation) |
 | [0217-contains-duplicate](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0877-stone-game](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0877-stone-game) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0031-next-permutation) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2396-strictly-palindromic-number](https://github.com/Hiteshvashishth02/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
