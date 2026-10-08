@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -68,11 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0217-contains-duplicate) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3663-find-the-least-frequent-digit](https://github.com/Hiteshvashishth02/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 ## Counting
 |  |
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Hiteshvashishth02/Leetcode/tree/master/2396-strictly-palindromic-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Hiteshvashishth02/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
